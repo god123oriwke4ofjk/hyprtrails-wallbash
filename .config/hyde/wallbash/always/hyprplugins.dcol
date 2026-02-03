@@ -1,4 +1,4 @@
-${XDG_CACHE_HOME}/hyde/wallbash/test.txt|${WALLBASH_SCRIPTS}/hyprtrails.sh
+${XDG_CACHE_HOME}/hyde/wallbash/plugins.conf|${WALLBASH_SCRIPTS}/hyprtrails.sh
 
 exec-once = quickshell -c qs-hyprview & 
 plugin {

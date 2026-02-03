@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 cacheDir="${cacheDir:-$XDG_CACHE_HOME/hyde}"
-hyprtrails_col="${cacheDir}/wallbash/test.txt"
+hyprtrails_col="${cacheDir}/wallbash/plugins.conf"
 
 client_css="$HOME/.config/hypr/plugins.conf"
 
