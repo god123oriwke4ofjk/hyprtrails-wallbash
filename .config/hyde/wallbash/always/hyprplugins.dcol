@@ -1,6 +1,4 @@
 ${XDG_CACHE_HOME}/hyde/wallbash/plugins.conf|${WALLBASH_SCRIPTS}/hyprtrails.sh
-
-exec-once = quickshell -c qs-hyprview & 
 plugin {
 	hyprtrails {
 		color = rgba(<wallbash_1xa6>ff)
